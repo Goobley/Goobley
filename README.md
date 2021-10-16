@@ -13,4 +13,13 @@ Concepts I 💖:
 - Fancy rendering technology.
 - Clever applications of metaprogramming.
 
+Languages:
+- Python
+- C++
+- C
+- Lua
+- LaTeX
+- MATLAB & Fortran at a push!
+- I really love some of the ideas coming out of Rust and Go!
+
 I am always looking to get involved with interesting projects like those listed above!
