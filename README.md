@@ -1,4 +1,4 @@
-I am a solar physics PhD focusing on improving the expressiveness and flexibility of non-LTE radiative transfer simulations (including as a component of multiphysics radiation hydrodynamics), in addition to investigating how leveraging machine learning can both accelerate these and enable the solution of inverse problems with extremely numerically intensive forward components.
+I am a solar physics PDRA focusing on improving the expressiveness and flexibility of non-LTE radiative transfer simulations (including as a component of multiphysics radiation hydrodynamics), in addition to investigating how leveraging machine learning can both accelerate these and enable the solution of inverse problems with extremely numerically intensive forward components.
 
 Some things you may be looking for:
 -  [Lightweaver](https://github.com/Goobley/Lightweaver) ✨: My flexible radiative transfer framework, heavily inspired by PyTorch _et al_, allowing for flexibility in Python but retaining high performance through the C++ (and CUDA soon™) backend.
