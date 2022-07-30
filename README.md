@@ -2,6 +2,7 @@ I am a solar physics PDRA focusing on improving the expressiveness and flexibili
 
 Some things you may be looking for:
 -  [Lightweaver](https://github.com/Goobley/Lightweaver) ✨: My flexible radiative transfer framework, heavily inspired by PyTorch _et al_, allowing for flexibility in Python but retaining high performance through the C++ (and CUDA soon™) backend.
+- [smug](https://github.com/GlasgowSolarPhysics/smug) ☀️: Solar Models from the University of Glasgow, a package making our deep learning models ready for deployment.
 - [RADYNVERSION](https://github.com/Goobley/Radynversion) 🤖 💭: An invertible neural network approach to the problem of recovering solar flare atmospheric properties from observations, trained from radiation hydrodynamic simulations (PyTorch).
 - [Lightspinner](https://github.com/Goobley/Lightspinner) 📚: A pure Python simplified version of an old branch of Lightweaver. Dissect the code in a few days and learn the basics of non-LTE radiative transfer through the Rybicki-Hummer 1992 method!
 - [Thyr](https://github.com/Goobley/Thyr2) 📡: An orthographic raymarcher for computing accurate and aesthetic gyrosynchrotron radio emission from a highly flexible combination of dipole loop models using the original torch (LuaJIT).
